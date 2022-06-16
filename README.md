@@ -4,13 +4,13 @@ Desription: Exploring the capabilities of implementing Python into an Excel work
 Website: https://express.adobe.com/page/m4wLzH58J9Dh2/ 
 
 Used the S.M.A.R.T.I.E. process in creating this project:
-S - Specific
-M - Measurable
-A - Achievable
-R - Relevant
-T - Time-based
-I - Inclusive
-E - Equity
+Specific
+Measurable
+Achievable
+Relevant
+Time-based
+Inclusive
+Equity
 
 Project outline via the University of Louisville:
 Early in the course, students will self-evaluate their technology skill set and determine at least 
