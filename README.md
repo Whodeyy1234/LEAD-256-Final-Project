@@ -7,7 +7,7 @@ pandas: https://pandas.pydata.org/
 
 openpyxl: https://pypi.org/project/openpyxl/
 
-Website: https://express.adobe.com/page/m4wLzH58J9Dh2/ 
+Website for project: https://express.adobe.com/page/m4wLzH58J9Dh2/ 
 
 Used the S.M.A.R.T.I.E. process in creating this project:
 Specific
